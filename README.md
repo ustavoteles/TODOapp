@@ -7,10 +7,7 @@ Este é um projeto de Lista de Tarefas (To-Do List) desenvolvido utilizando **An
 - [Descrição](#descrição)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Pré-requisitos](#pré-requisitos)
-- [Instalação e Execução](#instalação-e-execução)
 - [Funcionalidades](#funcionalidades)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
 
 ## Descrição
 
@@ -32,11 +29,10 @@ Uma aplicação simples de lista de tarefas onde os usuários podem criar, ler, 
 - **Banco de Dados:**
   - [MongoDB](https://www.mongodb.com/)
 
-## Pré-requisitos
 
-Para rodar este projeto localmente, você precisará de:
-
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Angular CLI](https://angular.io/cli)
-
+## Funcionalidades
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Editar tarefas existentes
+- Excluir tarefas
+- Listar todas as tarefas
