@@ -6,7 +6,6 @@ Este é um projeto de Lista de Tarefas (To-Do List) desenvolvido utilizando **An
 
 - [Descrição](#descrição)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
 - [Funcionalidades](#funcionalidades)
 
 ## Descrição
